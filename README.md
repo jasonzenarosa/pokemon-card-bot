@@ -1,4 +1,4 @@
-# Intro
+# About
 This Python script uses HTTPX and Parsel to scrape the price of Prismatic Evolution Elite Trainer Box from the Walmart website once per minute. If the price is less than $100, it sends a Discord message containing the link to the Walmart listing and the current price. 
 
 # Instructions for Running
@@ -24,6 +24,6 @@ Finally, run the script.
 // on windows
 python main.py
 
-//on mac
+// on mac
 python3 main.py
 ```
