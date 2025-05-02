@@ -11,9 +11,9 @@ pip install httpx
 pip install parsel
 
 // on mac
-pip install requests
-pip install httpx
-pip install parsel
+pip3 install requests
+pip3 install httpx
+pip3 install parsel
 ```
 
 You'll also need a [Discord Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) link in order for the script to publish Discord messages to a server. Once you have your link, duplicate the `context.example.py` file and rename the duplicated file `context.py`. Then, paste your link into the file in the appropriate section.
